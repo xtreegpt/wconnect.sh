@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "select 1 for mediasonic or 2 for realtek
+echo "select 1 for mediasonic or 2 for realtek"
 read WADAPT
 
 case $WADAPT in
